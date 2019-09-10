@@ -1,0 +1,2 @@
+cat /etc/passwd | tail -10 | cut -d : -f 1,6,7 > archivo.txt
+ls -l | tr -s " " | cut -f6,8,9 -d " " | grep 16:

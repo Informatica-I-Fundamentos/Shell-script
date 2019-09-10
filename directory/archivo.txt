@@ -1,0 +1,10 @@
+_datadetectors:/var/db/datadetectors:/usr/bin/false
+_captiveagent:/var/empty:/usr/bin/false
+_ctkd:/var/empty:/usr/bin/false
+_applepay:/var/db/applepay:/usr/bin/false
+_hidd:/var/db/hidd:/usr/bin/false
+_cmiodalassistants:/var/db/cmiodalassistants:/usr/bin/false
+_analyticsd:/var/db/analyticsd:/usr/bin/false
+_fpsd:/var/db/fpsd:/usr/bin/false
+_timed:/var/db/timed:/usr/bin/false
+_reportmemoryexception:/var/db/reportmemoryexception:/usr/bin/false
